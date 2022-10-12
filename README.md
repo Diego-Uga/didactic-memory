@@ -14,5 +14,7 @@ A remote repository for testing.
 - [x] Spy x Family Part 2
 - [ ] Mob Psycho 100 III
 - [ ] Made in Abyss Part 2
-
+- [ ] Boruto
+- [ ] Evangelion
+- [x] Fruits Basket
 
